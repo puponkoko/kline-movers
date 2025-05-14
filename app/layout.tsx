@@ -13,7 +13,7 @@ export const metadata = {
   description:
       "K-Line Movers provides professional residential and commercial moving services in the Bay Area, California. Get a free quote today!",
   icons: {
-    icon: [{ url: "/favicon.ico" }, { url: "/logo.png", type: "image/png" }],
+    icon: [{ url: "/favicon.ico" }, { url: "/logo.png", type: "/image/png" }],
     apple: [{ url: "/logo.png" }],
   },
   generator: "v0.dev",
