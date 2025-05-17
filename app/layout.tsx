@@ -66,8 +66,11 @@ export default function RootLayout({
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', 'G-WVL7LR3W1W');
+            gtag('config', 'AW-17059970696');
           `}
+
             </Script>
+
         </Head>
         <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange>
